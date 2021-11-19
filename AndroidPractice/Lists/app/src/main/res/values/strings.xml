@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lists</string>
+    <string-array name="students">
+        <item>Sushain</item>
+        <item>Sarah</item>
+        <item>Hazel</item>
+        <item>Mary</item>
+        <item>Mamamam</item>
+        <item>Lovely Singh</item>
+        <item>GARRRRG</item>
+        <item>Harry</item>
+        <item>Patrick</item>
+    </string-array>
+</resources>

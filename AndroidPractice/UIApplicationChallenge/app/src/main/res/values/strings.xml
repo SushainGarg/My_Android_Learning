@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UIApplication Challenge</string>
+    <array name="countries">
+        <item>India</item>
+        <item>UK</item>
+        <item>China</item>
+        <item>Russia</item>
+        <item>France</item>
+        <item>Belgium</item>
+    </array>
+</resources>
